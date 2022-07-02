@@ -3,13 +3,15 @@
 ---
 
 
-# Home
+# [Home](https://teijuan.netlify.app)
 
 > Table of Contents
 > - **[[Jardim Digital/Home|Home]]**
 > - [[Jardim Digital/About|About]]
 ____
 
-Work in progress
+Work in progress.
+
+![tei](https://a.furaffinity.net/20010101/teixeira-juan.gif)
 
 > Art (C) Tei-Juan
