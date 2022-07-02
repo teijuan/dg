@@ -3,10 +3,10 @@
 ---
 
 
-- [**Home**](Home.md)
-- [About](About.md)
+- **[[Jardim Digital/Home|Home]]**
+- [[Jardim Digital/About|About]]
 
-# [LONG WAY HOME (TRADUÇÃO) - ATB - LETRAS.MUS.BR](https://www.letras.mus.br/atb/81060/traducao.html)
+# [(TRADUÇÃO) - ATB - LETRAS.MUS.BR](https://www.letras.mus.br/atb/81060/traducao.html|LONG WAY HOME (TRADUÇÃO) - ATB - LETRAS.MUS.BR)
 
 **Long Way Home**
 
