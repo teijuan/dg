@@ -13,7 +13,6 @@ Table of Contents:
 > - [[Jardim Digital/FA_Icons#Social medias|Social medias]]
 > - [[Jardim Digital/FA_Icons#Warnings|Warnings]]
 > - [[Jardim Digital/FA_Icons#Sources|Sources]]
-> 
 
 
 ## Items
@@ -49,13 +48,12 @@ Table of Contents:
 ![🖼](https://a.furaffinity.net/20010101/kittyemoji.gif) `:kittyemojiicon:`
 ![🖼](https://a.furaffinity.net/20010101/tykva.gif) `:tykvaicon:`
 
-***
 ## Flowers
 ![🖼](https://a.furaffinity.net/20010101/cherryblossom..gif) `:cherryblossomicon:`
 ![🖼](https://a.furaffinity.net/20010101/pastel.rose.gif) `:pastel.roseicon:`
 ![🖼](https://a.furaffinity.net/20010101/pastelpinkrose.gif) `:pastelpinkroseicon:`
 ![🖼](https://a.furaffinity.net/20010101/sparklingrose.gif) `:sparklingroseicon:`
-***
+
 ## Pixel hearts
 ![🖼](https://a.furaffinity.net/20010101/heartpixel.gif) `:heartpixelicon:`
 ![🖼](https://a.furaffinity.net/20010101/8bitheartred.gif) `:8bitheartredicon:`
@@ -69,7 +67,7 @@ Table of Contents:
 ![🖼](https://a.furaffinity.net/20010101/8bitheartpurple.gif) `:8bitheartpurpleicon:`
 ![🖼](https://a.furaffinity.net/20010101/8bitheartgreen.gif) `:8bitheartgreenicon:`
 ![🖼](https://a.furaffinity.net/20010101/8bitheartrain.gif) `:8bitheartrainicon:`
-***
+
 ##  Sparkles
 ![🖼](https://a.furaffinity.net/20010101/8bitstars1.gif) `:8bitstars1icon:`
 ![🖼](https://a.furaffinity.net/20010101/8bitstars3.gif) `:8bitstars3icon:`
@@ -96,12 +94,12 @@ Table of Contents:
 ![🖼](https://a.furaffinity.net/20010101/8bitsnow1.gif) `:8bitsnow1icon:`
 ![🖼](https://a.furaffinity.net/20010101/hangingstars.gif) `:hangingstarsicon:`
 ![🖼](https://a.furaffinity.net/20010101/handingstarsright.gif) `:handingstarsrighticon:`
-***
+
 ## Sequence
 ![🖼](https://a.furaffinity.net/20010101/wdtail.gif)![🖼](https://a.furaffinity.net/20010101/wdbody.gif)![🖼](https://a.furaffinity.net/20010101/wdhead.gif)
 `:wdtailicon:` `:wdbodyicon:` `:wdheadicon:`
 
-***
+
 ## Social medias
 ![🖼](https://a.furaffinity.net/20010101/facebook.gif) `:facebookicon:`
 ![🖼](https://a.furaffinity.net/20010101/instagramicon.gif) `:instagramiconicon:`
@@ -113,9 +111,6 @@ Table of Contents:
 ![🖼](https://a.furaffinity.net/20010101/discordfurs.gif) `:discordfursicon:`
 ![🖼](https://a.furaffinity.net/20010101/paypal.gif) `:paypalicon:`
 ![🖼](https://a.furaffinity.net/20010101/ko-fi.gif) `:ko-fiicon:`
-
-***
-
 
 ## Warnings
 ![🖼](https://a.furaffinity.net/20010101/noroleplay.gif) `:noroleplayicon:`
