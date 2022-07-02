@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/jardim-digital/home/","tags":"gardenEntry","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
+
 > - Início
 >  - [Sobre](About.md)
 
@@ -69,66 +70,3 @@ Whatever may come and go
 Just like the boy  
 Trying to give it away  
 I regret tomorrow more than yesterday  
-
-**Caminho Mais Longo**
-
-Vou chutando essa pedra  
-Só pela rua  
-E as paredes criticam por onde eu vou  
-Estou atirando essa pedra  
-Pela sua porta aberta  
-E as entradas parecem me dizer que estou errando  
-
-Estou tomando o caminho mais longo  
-Onde tudo é viçoso  
-Tal como o garoto  
-Tentando desistir  
-Arrependo-me do amanhã  
-Estou tomando o caminho mais longo  
-Seja lá no que der  
-Tal como o garoto  
-Tentando desistir  
-Arrependo-me do amanhã mais do que de ontem  
-
-Lembra-se do muro  
-Em que costumávamos nos esconder?  
-E o mundo parecia tão escuro e o frio do lado de fora  
-Lembra-se do campo  
-Onde costumávamos beijar  
-E a chuva apagava a nossa lista secreta  
-
-Estou tomando o caminho mais longo  
-Onde tudo é viçoso  
-Tal como o garoto  
-Tentando desistir  
-Arrependo-me do amanhã  
-Estou tomando o caminho mais longo  
-Saja lá no que der  
-Tal como o garoto  
-Tentando desistir  
-Arrependo-me do amanhã mais do que de ontem  
-
-Ninguém em casa  
-Sinto-me perdido por dentro  
-Um relógio que marca o tempo que resta  
-Quando se está sozinho  
-É fácil hesitar  
-Tal como a garota que ouve seu coração se partir  
-
-Estou tomando o caminho mais longo  
-Onde tudo é viçoso  
-Tal como o garoto  
-Tentando desistir  
-Arrependo-me do amanhã  
-Estou tomando o caminho mais longo  
-
-Estou tomando o caminho mais longo  
-Onde tudo é viçoso  
-Tal como o garoto  
-Tentando desistir  
-Arrependo-me do amanhã  
-Estou tomando o caminho mais longo  
-Seja lá no que der  
-Tal como o garoto  
-Tentando desistir  
-Arrependo-me do amanhã mais do que de ontem
