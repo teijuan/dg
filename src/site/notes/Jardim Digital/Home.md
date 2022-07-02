@@ -6,8 +6,7 @@
 - **[[Jardim Digital/Home|Home]]**
 - [[Jardim Digital/About|About]]
 
-# [(TRADUÇÃO) - ATB - LETRAS.MUS.BR](https://www.letras.mus.br/atb/81060/traducao.html|LONG WAY HOME (TRADUÇÃO) - ATB - LETRAS.MUS.BR)
-
+# [ATB - LONG WAY HOME](https://www.letras.mus.br/atb/81060/traducao.html)
 **Long Way Home**
 
 I'm kicking that stone  
