@@ -4,6 +4,17 @@
 
 
 # Furaffinity Icons
+Table of Contents:
+> - [[Jardim Digital/FA_Icons#Items|Items]]
+> - [[Jardim Digital/FA_Icons#Flowers|Flowers]]
+> - [[Jardim Digital/FA_Icons#Pixel hearts|Pixel hearts]]
+> - [[Jardim Digital/FA_Icons#Sparkles|Sparkles]]
+> - [[Jardim Digital/FA_Icons#Sequence|Sequence]]
+> - [[Jardim Digital/FA_Icons#Social medias|Social medias]]
+> - [[Jardim Digital/FA_Icons#Warnings|Warnings]]
+> - [[Jardim Digital/FA_Icons#Sources|Sources]]
+> 
+
 
 ## Items
 ![🖼](https://a.furaffinity.net/20010101/luvluvzblack.gif) `:luvluvzblackicon:`
@@ -111,18 +122,6 @@
 
 ## Sources
 - https://www.furaffinity.net/journal/9904816/ 
-
-***
-Base text for icons:
-```
-![🖼](https://a.furaffinity.net/20010101/÷÷÷÷÷÷÷÷÷÷÷÷.gif) `:÷÷÷÷÷÷÷÷÷÷÷÷icon:`
-
-```
-Paste the username between the character: `
-÷
-`, and then, replace it with empty.
-***
-
-▒░▓
-
-[063 Kozakura](../Comissions/063%20Kozakura.md)
+____
+Last updated: 2022-07-02
+Index © Tei-Juan.
