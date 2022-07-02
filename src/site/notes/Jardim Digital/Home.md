@@ -3,8 +3,8 @@
 ---
 
 
-> - Início
->  - [Sobre](About.md)
+- [**Home**](Home.md)
+- [About](About.md)
 
 # [LONG WAY HOME (TRADUÇÃO) - ATB - LETRAS.MUS.BR](https://www.letras.mus.br/atb/81060/traducao.html)
 
