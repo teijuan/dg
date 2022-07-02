@@ -3,7 +3,7 @@
 ---
 
 
-# 🪴 Tei-Juan's Digital Garden [](https://teijuan.netlify.app)
+# 🌱 Tei-Juan's Digital Garden [](https://teijuan.netlify.app)
 
 - **[[Jardim Digital/Home|Home]]**
 - [[Jardim Digital/About|About]]
