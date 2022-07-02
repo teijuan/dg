@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/digital-garden/home/","tags":"gardenEntry","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
+> [[Digital garden/About|About]]
 
 # [LONG WAY HOME (TRADUÇÃO) - ATB - LETRAS.MUS.BR](https://www.letras.mus.br/atb/81060/traducao.html)
 
