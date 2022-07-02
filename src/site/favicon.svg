@@ -1,24 +1,16 @@
-<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <rect x="37.0753" y="36.0532" width="26.8836" height="18.1139" fill="#FFFFFF"/>
-    <polygon fill="#EA5A47" stroke="#EA5A47" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="50.2353,23.2 38.1,36 63.5,36"/>
-    <path fill="#EA5A47" d="M47.3,26l-6.4,6.0595v-8.5733c0-0.9313,0.7549-1.4162,1.6862-1.4162h3.0276 c0.9313,0,1.6862,0.4849,1.6862,1.4162C47.3,23.4862,47.3,26,47.3,26z"/>
-    <rect x="43" y="42" width="6" height="12" fill="#A57939"/>
-    <rect x="54" y="42" width="6" height="5" fill="#92D3F5"/>
-    <path fill="#B1CC33" d="M41.0059,28.3393c0-3.3123-3.4447-6.0025-7.6937-6.0025c-0.3549,0.0029-0.7095,0.025-1.0622,0.0662 c-1.7995-3.4553-5.7065-5.8554-10.2499-5.8554c-6.2478,0-11.3122,4.5286-11.3122,10.1144c0.0012,0.3692,0.0247,0.738,0.0704,1.1043 C7.9656,28.6665,6,30.8102,6,33.3136c0,3.3123,3.4446,6.0025,7.6936,6.0025c1.6151,0.0139,3.2056-0.4022,4.6137-1.207 c1.8177,1.4766,4.7264,2.4385,8.0154,2.4385c5.5105,0,9.9776-2.6875,9.9776-6.0025c-0.0009-0.2191-0.0214-0.4377-0.0612-0.6531 C39.0357,32.9904,41.0059,30.8453,41.0059,28.3393z"/>
-  </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
-  <g id="line">
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="46,27 50.2353,23 64,35.0976 64,54 38,54 38,41.5482"/>
-    <rect x="43" y="42" width="6" height="12" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="54" y="42" width="6" height="5" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="43.5,23 46.5,23 46.5,26"/>
-    <path fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="2" d="M31.245,39.3396"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="22.5,54 22.5,46.8269 17.5,42"/>
-    <line x1="23.0408" x2="25.885" y1="46.7265" y2="43.7657" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M41.0059,28.3393 c0-3.3123-3.4447-6.0025-7.6937-6.0025c-0.3549,0.0029-0.7095,0.025-1.0622,0.0662c-1.7995-3.4553-5.7065-5.8554-10.2499-5.8554 c-6.2478,0-11.3122,4.5286-11.3122,10.1144c0.0012,0.3692,0.0247,0.738,0.0704,1.1043C7.9656,28.6665,6,30.8102,6,33.3136 c0,3.3123,3.4446,6.0025,7.6936,6.0025c1.6151,0.0139,3.2056-0.4022,4.6137-1.207c1.8177,1.4766,4.7264,2.4385,8.0154,2.4385 c5.5105,0,9.9776-2.6875,9.9776-6.0025c-0.0009-0.2191-0.0214-0.4377-0.0612-0.6531 C39.0357,32.9904,41.0059,30.8453,41.0059,28.3393z"/>
-    <line x1="63.5" x2="42.5" y1="36" y2="36" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-  </g>
-</svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 556 803" width="556" height="803">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style>
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+    </style>
+  </defs>
+  <g stroke-linecap="round"><g transform="translate(50 354) rotate(0 228 47.5)" fill-rule="evenodd"><path d="M0 0 L95 -190 L323 -304 L456 -114 L380 342 L342 399 L133 323 L0 0" stroke="none" stroke-width="0" fill="#34208c" fill-rule="evenodd"/><path d="M0 0 C27.39 -54.77, 54.77 -109.54, 95 -190 M0 0 C26.71 -53.41, 53.41 -106.83, 95 -190 M95 -190 C184.79 -234.89, 274.58 -279.79, 323 -304 M95 -190 C149.41 -217.2, 203.82 -244.41, 323 -304 M323 -304 C371.54 -234.66, 420.08 -165.31, 456 -114 M323 -304 C349.9 -265.57, 376.8 -227.14, 456 -114 M456 -114 C426.27 64.41, 396.53 242.82, 380 342 M456 -114 C439.95 -17.73, 423.91 78.55, 380 342 M380 342 C366.57 362.14, 353.15 382.28, 342 399 M380 342 C370.83 355.75, 361.67 369.5, 342 399 M342 399 C275.76 374.91, 209.52 350.83, 133 323 M342 399 C297.73 382.9, 253.46 366.8, 133 323 M133 323 C102.89 249.87, 72.78 176.75, 0 0 M133 323 C80.94 196.56, 28.87 70.12, 0 0 M0 0 C0 0, 0 0, 0 0 M0 0 C0 0, 0 0, 0 0" stroke="transparent" stroke-width="0.5" fill="none"/></g></g><g stroke-linecap="round"><g transform="translate(392 753) rotate(0 -57 -304)" fill-rule="evenodd"><path d="M0 0 L-228 -456 L-38 -608 L114 -513 L38 -57 L0 0" stroke="none" stroke-width="0" fill="#8b78de" fill-rule="evenodd"/><path d="M0 0 C-82.81 -165.62, -165.62 -331.23, -228 -456 M0 0 C-74.55 -149.11, -149.11 -298.22, -228 -456 M-228 -456 C-161.84 -508.93, -95.68 -561.85, -38 -608 M-228 -456 C-175.68 -497.85, -123.36 -539.71, -38 -608 M-38 -608 C17.08 -573.57, 72.17 -539.15, 114 -513 M-38 -608 C5.61 -580.74, 49.22 -553.49, 114 -513 M114 -513 C98.58 -420.48, 83.16 -327.96, 38 -57 M114 -513 C97.38 -413.25, 80.75 -313.5, 38 -57 M38 -57 C23.37 -35.05, 8.74 -13.11, 0 0 M38 -57 C29.2 -43.8, 20.4 -30.6, 0 0 M0 0 C0 0, 0 0, 0 0 M0 0 C0 0, 0 0, 0 0" stroke="transparent" stroke-width="0.5" fill="none"/></g></g><g stroke-linecap="round"><g transform="translate(354 145) rotate(0 76 0)" fill-rule="evenodd"><path d="M0 0 L19 -95 L152 95 L0 0" stroke="none" stroke-width="0" fill="#af9ff4" fill-rule="evenodd"/><path d="M0 0 C3.94 -19.69, 7.88 -39.38, 19 -95 M0 0 C6.73 -33.67, 13.47 -67.34, 19 -95 M19 -95 C48.3 -53.14, 77.6 -11.28, 152 95 M19 -95 C58.62 -38.4, 98.23 18.19, 152 95 M152 95 C109.84 68.65, 67.69 42.31, 0 0 M152 95 C95.41 59.63, 38.81 24.26, 0 0 M0 0 C0 0, 0 0, 0 0 M0 0 C0 0, 0 0, 0 0" stroke="transparent" stroke-width="0.5" fill="none"/></g></g><g stroke-linecap="round"><g transform="translate(164 297) rotate(0 104.5 104.5)" fill-rule="evenodd"><path d="M0 0 L-19 -133 L209 -247 L190 -152 L0 0 L19 380 L228 456 L0 0" stroke="none" stroke-width="0" fill="#4a37a0" fill-rule="evenodd"/><path d="M0 0 C-4.35 -30.42, -8.69 -60.85, -19 -133 M0 0 C-5.48 -38.35, -10.96 -76.7, -19 -133 M-19 -133 C53.13 -169.06, 125.25 -205.13, 209 -247 M-19 -133 C35.92 -160.46, 90.83 -187.92, 209 -247 M209 -247 C202.96 -216.78, 196.91 -186.56, 190 -152 M209 -247 C203.3 -218.52, 197.61 -190.05, 190 -152 M190 -152 C128.28 -102.62, 66.56 -53.25, 0 0 M190 -152 C127.62 -102.1, 65.25 -52.2, 0 0 M0 0 C6.57 131.35, 13.14 262.71, 19 380 M0 0 C5.58 111.56, 11.16 223.12, 19 380 M19 380 C84.63 403.86, 150.26 427.73, 228 456 M19 380 C94.25 407.36, 169.5 434.73, 228 456 M228 456 C160.97 321.94, 93.94 187.88, 0 0 M228 456 C140.57 281.14, 53.14 106.28, 0 0 M0 0 C0 0, 0 0, 0 0 M0 0 C0 0, 0 0, 0 0" stroke="transparent" stroke-width="0.5" fill="none"/></g></g></svg>
