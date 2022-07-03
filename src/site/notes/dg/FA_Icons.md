@@ -3,7 +3,7 @@
 ---
 
 
-# Furaffinity Icons
+# 🐾 Furaffinity Icons
 > ## Table of Contents
 > - [[dg/FA_Icons#Items|Items]]
 > - [[dg/FA_Icons#Flowers|Flowers]]
