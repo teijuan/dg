@@ -4,7 +4,7 @@
 
 
 # Furaffinity Icons
-Table of Contents:
+> ## Table of Contents
 > - [[dg/FA_Icons#Items|Items]]
 > - [[dg/FA_Icons#Flowers|Flowers]]
 > - [[dg/FA_Icons#Pixel hearts|Pixel hearts]]
@@ -14,6 +14,13 @@ Table of Contents:
 > - [[dg/FA_Icons#Warnings|Warnings]]
 > - [[dg/FA_Icons#Sources|Sources]]
 
+If there are broken icons or you'd like to suggest some for the list, please DM me.
+
+## Flowers
+![🖼](https://a.furaffinity.net/20010101/cherryblossom..gif) `:cherryblossomicon:`
+![🖼](https://a.furaffinity.net/20010101/pastel.rose.gif) `:pastel.roseicon:`
+![🖼](https://a.furaffinity.net/20010101/pastelpinkrose.gif) `:pastelpinkroseicon:`
+![🖼](https://a.furaffinity.net/20010101/sparklingrose.gif) `:sparklingroseicon:`
 
 ## Items
 ![🖼](https://a.furaffinity.net/20010101/luvluvzblack.gif) `:luvluvzblackicon:`
@@ -47,12 +54,6 @@ Table of Contents:
 ![🖼](https://a.furaffinity.net/20010101/flyreid.gif) `:flyreidicon:`
 ![🖼](https://a.furaffinity.net/20010101/kittyemoji.gif) `:kittyemojiicon:`
 ![🖼](https://a.furaffinity.net/20010101/tykva.gif) `:tykvaicon:`
-
-## Flowers
-![🖼](https://a.furaffinity.net/20010101/cherryblossom..gif) `:cherryblossomicon:`
-![🖼](https://a.furaffinity.net/20010101/pastel.rose.gif) `:pastel.roseicon:`
-![🖼](https://a.furaffinity.net/20010101/pastelpinkrose.gif) `:pastelpinkroseicon:`
-![🖼](https://a.furaffinity.net/20010101/sparklingrose.gif) `:sparklingroseicon:`
 
 ## Pixel hearts
 ![🖼](https://a.furaffinity.net/20010101/heartpixel.gif) `:heartpixelicon:`
@@ -115,8 +116,6 @@ Table of Contents:
 ## Warnings
 ![🖼](https://a.furaffinity.net/20010101/noroleplay.gif) `:noroleplayicon:`
 
-## Sources
-- https://www.furaffinity.net/journal/9904816/ 
 ____
+
 Last updated: 2022-07-02
-Index © Tei-Juan.
