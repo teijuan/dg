@@ -6,8 +6,8 @@
 # 🌱 [Tei Juan's Digital Garden](https://teijuan.netlify.app)
 It's still in progress. 🌹
 
-- <u>[Inicio](Inicio.md)</u>
-- [About](About.md)
+- <u>[Inicio](./Inicio.md)</u>
+- [About](./About.md)
 
 Also, [[Jardim Digital/FA_Icons|check this out!]]
 
