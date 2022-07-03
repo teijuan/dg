@@ -3,12 +3,10 @@
 ---
 
 
-# 🌱 [Tei Juan's Digi Garden](https://teijuan.netlify.app)
-🌿 A minimalist web space for sharing thoughs and useful notes.
+# 🌱 [Tei's Digi Garden](https://teijuan.netlify.app)
+🌿 Just a minimalist website for me to share thoughs and useful notes.
 
-- [[dg/About|About]]
-
-🌹 Still in progress.
+- [[dg/Notes|Notes]]
 
 - [[dg/FA_Icons|Furaffinity icons index]]
 ____
