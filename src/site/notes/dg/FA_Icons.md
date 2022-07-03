@@ -3,6 +3,9 @@
 ---
 
 
+🏠 [[dg/Home|Home]]
+____
+
 # 🐾 Furaffinity Icons
 > ## Table of Contents
 > - [[dg/FA_Icons#Items|Items]]
