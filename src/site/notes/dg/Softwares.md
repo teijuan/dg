@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/dg/softwares/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/dg/softwares/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
 🏠 [[dg/Home|Home]]
 ____
 # Softwares
+[[dg/Softwares|These are the softwares]] that I use during my whole day, for both art'workflow and personal life.
+
 - **Obsidian**
 For writing almost anything, from short notes to long-term novels and other stories. I'm also using for write and publish these notes, thanks to @oleeskild's [obsidian-digital-garden plugin](https://github.com/oleeskild/Obsidian-Digital-Garden).
 
