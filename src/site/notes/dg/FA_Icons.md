@@ -117,5 +117,3 @@ If there are broken icons or you'd like to suggest some for the list, please DM 
 ![🖼|50](https://a.furaffinity.net/20010101/noroleplay.gif) `:noroleplayicon:`
 
 ____
-
-Last updated: 2022-07-02
