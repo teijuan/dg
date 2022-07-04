@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/dg/softwares/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-
-🏠 [[dg/Home|Home]]
-____
 # Softwares
 [[dg/Softwares|These are the softwares]] that I use during my whole day, for both art'workflow and personal life.
 
