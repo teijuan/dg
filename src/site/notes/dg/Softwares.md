@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dg/softwares/","tags":"gardenEntry","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/dg/softwares/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 
