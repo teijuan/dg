@@ -8,7 +8,7 @@
 > <h6>04/07/2022</h6>
 
 > [!NOTE] Fanarts
-> I love every [fanart](Fanarts.md) and trades of my OCs!! ^^
+> I love the [[dg/Fanarts|Fanarts]] and trades of my OCs!! ^^
 > <h6>04/07/2022</h6>
 
 ____
