@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/dg/about-me/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-🏠 [[dg/Home|Home]]
-____
 # About Me
 
 I'm **Tei Juan**, 21y. male student, digital/traditional artist.
