@@ -4,11 +4,11 @@
 
 # Blog
 > [!NOTE] Furaffinity Icons
-> I'm working on [[dg/FA_Icons|an index for all the known Furaffinity icons]]. You are welcome to help me to expand it by suggesting any username you know that has an emoji or icon as avatar.
+> I'm working on [[dg/FA_Icons|an index for FA icons]] and anyone is welcome for help me to expand it by suggesting known usernames with an emoji or icon as avatar.
 > <h6>04/07/2022</h6>
 
 > [!NOTE] Fanarts
-> I love the [[dg/Fanarts|Fanarts]] and trades of my OCs!! ^^
+> I love all the [[dg/Fanarts|Fanarts]] and trades of my OCs done for me!! ^^
 > <h6>04/07/2022</h6>
 
 ____
