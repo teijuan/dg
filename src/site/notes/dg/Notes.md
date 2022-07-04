@@ -3,7 +3,7 @@
 ---
 
 
-⬅️ [[dg/Home|Home]]
+🏠 [[dg/Home|Home]]
 ____
 
 No notes for a while. Have some emoji garden and lofi instead.
