@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/dg/fa-icons/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-
-🏠 [[dg/Home|Home]]
-____
-
 # 🐾 Furaffinity Icons
 > ## Table of Contents
 > - [[dg/FA_Icons#Items|Items]]
