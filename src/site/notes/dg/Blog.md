@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dg/blog/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/dg/blog/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 🏠 [[dg/Home|Home]]
