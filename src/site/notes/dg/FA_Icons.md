@@ -15,7 +15,6 @@ ____
 > - [[dg/FA_Icons#Sequence|Sequence]]
 > - [[dg/FA_Icons#Social medias|Social medias]]
 > - [[dg/FA_Icons#Warnings|Warnings]]
-> - [[dg/FA_Icons#Sources|Sources]]
 
 If there are broken icons or you'd like to suggest some for the list, please DM me.
 
@@ -26,7 +25,6 @@ If there are broken icons or you'd like to suggest some for the list, please DM 
 ![🖼|50](https://a.furaffinity.net/20010101/sparklingrose.gif) `:sparklingroseicon:`
 
 ## Items
-![🖼|50](https://a.furaffinity.net/20010101/luvluvzblack.gif) `:luvluvzblackicon:`
 ![🖼|50](https://a.furaffinity.net/20010101/pixelpach2.gif) `:pixelpach2icon:`
 ![🖼|50](https://a.furaffinity.net/20010101/impairedfurs.gif) `:impairedfursicon:`
 ![🖼|50](https://a.furaffinity.net/20010101/oxxie.gif) `:oxxieicon:`
@@ -58,7 +56,8 @@ If there are broken icons or you'd like to suggest some for the list, please DM 
 ![🖼|50](https://a.furaffinity.net/20010101/kittyemoji.gif) `:kittyemojiicon:`
 ![🖼|50](https://a.furaffinity.net/20010101/tykva.gif) `:tykvaicon:`
 
-## Pixel hearts
+## Hearts
+![🖼|50](https://a.furaffinity.net/20010101/luvluvzblack.gif) `:luvluvzblackicon:`
 ![🖼|50](https://a.furaffinity.net/20010101/heartpixel.gif) `:heartpixelicon:`
 ![🖼|50](https://a.furaffinity.net/20010101/8bitheartred.gif) `:8bitheartredicon:`
 ![🖼|50](https://a.furaffinity.net/20010101/8bitheartpink.gif) `:8bitheartpinkicon:`
