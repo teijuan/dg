@@ -11,6 +11,7 @@ ____
 > - [[dg/FA_Icons#Items|Items]]
 > - [[dg/FA_Icons#Flowers|Flowers]]
 > - [[dg/FA_Icons#Pixel hearts|Pixel hearts]]
+> - [[dg/FA_Icons#Animals|#Animals]]
 > - [[dg/FA_Icons#Sparkles|Sparkles]]
 > - [[dg/FA_Icons#Sequence|Sequence]]
 > - [[dg/FA_Icons#Social medias|Social medias]]
@@ -46,16 +47,17 @@ If there are broken icons or you'd like to suggest some for the list, please DM 
 ![🖼|50](https://a.furaffinity.net/20010101/pinktabletpen.gif) `:pinktabletpenicon:`
 ![🖼|50](https://a.furaffinity.net/20010101/akerkia.gif) `:akerkiaicon:`
 ![🖼|50](https://a.furaffinity.net/20010101/tabletpen.gif) `:tabletpenicon:`
-![🖼|50](https://a.furaffinity.net/20010101/embracingentropy.gif) `:embracingentropyicon:`
-![🖼|50](https://a.furaffinity.net/20010101/kyain.gif) `:kyainicon:`
 ![🖼|50](https://a.furaffinity.net/20010101/pinkbow.gif) `:pinkbowicon:`
 ![🖼|50](https://a.furaffinity.net/20010101/f2u.sakura.gif) `:f2u.sakuraicon:`
 ![🖼|50](https://a.furaffinity.net/20010101/oxxie.gif) `:oxxieicon:`
 ![🖼|50](https://a.furaffinity.net/20010101/ricoriso.gif) `:ricorisoicon:`
 ![🖼|50](https://a.furaffinity.net/20010101/flyreid.gif) `:flyreidicon:`
-![🖼|50](https://a.furaffinity.net/20010101/kittyemoji.gif) `:kittyemojiicon:`
 ![🖼|50](https://a.furaffinity.net/20010101/tykva.gif) `:tykvaicon:`
 
+## Animals
+![🖼|50](https://a.furaffinity.net/20010101/embracingentropy.gif) `:embracingentropyicon:`
+![🖼|50](https://a.furaffinity.net/20010101/kyain.gif) `:kyainicon:`
+![🖼|50](https://a.furaffinity.net/20010101/kittyemoji.gif) `:kittyemojiicon:`
 ## Hearts
 ![🖼|50](https://a.furaffinity.net/20010101/luvluvzblack.gif) `:luvluvzblackicon:`
 ![🖼|50](https://a.furaffinity.net/20010101/heartpixel.gif) `:heartpixelicon:`
