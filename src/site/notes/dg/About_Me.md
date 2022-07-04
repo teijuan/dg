@@ -6,9 +6,15 @@
 ____
 # About Me
 
-I'm `Tei-Juan`, a 21y. male student, digital/traditional artist.
-Talkative on the web but kinda shy irl.
+I'm **Tei Juan**, 21y. male student, digital/traditional artist.
 
-Drawing is my main activity, but I also have some hobbies.
+Talkative on the web but kind of shy irl.
 
-There are many things that I'd like to learn and practice someday, many of them related to drawing, but have no plans for them yet.
+Since I do live with my parents and don't have a formal job, I spent most of my day drawing, studying or doing domestic tasks.
+
+Drawing is my main activity, but I also have hobbies, like gaming and composing dance music.
+
+And there are many other things that I'd like to learn and practice someday, many of them related to drawing, but have no plans for them yet, like playing guitar and keyboard.
+
+[[dg/Softwares|These are the softwares]] that I use during my whole day, for both art'workflow and personal life.
+
