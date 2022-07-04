@@ -4,7 +4,7 @@
 
 
 # 🌱 [Tei's digital garden](https://teijuan.netlify.app)
-This is my repo for publishing some insights and useful notes. 🌿
+For publishing some insights and useful notes. 🌿
 
 - [[dg/Blog|Blog]]
 - [[dg/About_Me|About Me]]
