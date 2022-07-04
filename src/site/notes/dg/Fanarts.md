@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/dg/fanarts/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-🏠 [[dg/Home|Home]]
-____
 # Fanarts
 Every work done by other artists^[The ones that I've seen or asked for a trade or collab. If there's one that I missed, please send me its link for me to include.] of my OCs.
 
