@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dg/fa-icons/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/dg/fa-icons/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
