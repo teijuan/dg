@@ -7,7 +7,7 @@
 > - [[dg/FA_Icons#Items|Items]]
 > - [[dg/FA_Icons#Flowers|Flowers]]
 > - [[dg/FA_Icons#Pixel hearts|Pixel hearts]]
-> - [[dg/FA_Icons#Animals|#Animals]]
+> - [[dg/FA_Icons#Animals|Animals]]
 > - [[dg/FA_Icons#Sparkles|Sparkles]]
 > - [[dg/FA_Icons#Sequence|Sequence]]
 > - [[dg/FA_Icons#Social medias|Social medias]]
