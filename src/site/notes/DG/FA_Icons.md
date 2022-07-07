@@ -6,7 +6,7 @@
 > ## Table of Contents
 > - [[DG/FA_Icons#Items|Items]]
 > - [[DG/FA_Icons#Flowers|Flowers]]
-> - [[DG/FA_Icons#Pixel hearts|Pixel hearts]]
+> - [[DG/FA_Icons#Hearts|Hearts]]
 > - [[DG/FA_Icons#Animals|Animals]]
 > - [[DG/FA_Icons#Sparkles|Sparkles]]
 > - [[DG/FA_Icons#Sequence|Sequence]]
