@@ -11,3 +11,4 @@ A static space for publishing some insights and useful notes. 🌿
 \- [[DG/Contact|Contact me]]
 
 ____
+Last modified: 2022-07-13 22:24
