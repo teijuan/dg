@@ -18,7 +18,7 @@ More than **100** icons indexed. Help me increasing this library [sending me sug
 > - [[DG/Furaffinity Icons#Social medias|Social medias]]
 > - [[DG/Furaffinity Icons#Warnings|Warnings]]
 > - [[DG/Furaffinity Icons#Symbols|Symbols]]
-> - [[DG/Furaffinity Icons#Expressions by replic-tuanione|Expressions by replic-tuanione]]
+> - [[DG/Furaffinity Icons#Emotions|Emotions]]
 
 ## Decor
 ![🖼](https://a.furaffinity.net/20220401/pixejunimo.gif) `:pixejunimoicon:`
@@ -53,19 +53,9 @@ More than **100** icons indexed. Help me increasing this library [sending me sug
 ![🖼](https://a.furaffinity.net/20220401/wskull1.gif)
 `:wskull2icon:`
 `:wskull1icon:`
-
-
-![🖼](https://a.furaffinity.net/20220401/smileeeeeee.gif) `:smileeeeeeeicon:
-## Decor
-
-![🖼](https://a.furaffinity.net/20220401/hangingstars.gif) `:hangingstarsicon:
-
-![🖼](https://a.furaffinity.net/20220401/handingstarsright.gif) `:handingstarsrighticon:
-
-![🖼](https://a.furaffinity.net/20220401/moon-icon.gif) `:moon-iconicon:
-
-![🖼](https://a.furaffinity.net/20220401/bluecrystal.gif) `:bluecrystalicon:
-
+![🖼](https://a.furaffinity.net/20220401/hangingstars.gif) ![🖼](https://a.furaffinity.net/20220401/handingstarsright.gif)  `:hangingstarsicon:` `:handingstarsrighticon:`
+![🖼](https://a.furaffinity.net/20220401/moon-icon.gif) `:moon-iconicon:`
+![🖼](https://a.furaffinity.net/20220401/bluecrystal.gif) `:bluecrystalicon:`
 ## Flowers
 ![🖼](https://a.furaffinity.net/20220401/cherryblossom..gif) `:cherryblossomicon:`
 ![🖼](https://a.furaffinity.net/20220401/f2u.sakura.gif) `:f2u.sakuraicon:`
@@ -135,16 +125,19 @@ More than **100** icons indexed. Help me increasing this library [sending me sug
 ![🖼](https://a.furaffinity.net/20220401/telegramfurs.gif) `:telegramfursicon:`
 ![🖼](https://a.furaffinity.net/20220401/telegram.gif) `:telegramicon:`
 ![🖼](https://a.furaffinity.net/20220401/twitter.gif) `:twittericon:`
-![🖼](https://a.furaffinity.net/20220401/twitterpixel.gif) `:twitterpixelicon:`
-![🖼](https://a.furaffinity.net/20220401/patreonpixel.gif) `:patreonpixelicon:`
-![🖼](https://a.furaffinity.net/20220401/paypalpixel.gif) `:paypalpixelicon:`
-![🖼](https://a.furaffinity.net/20220401/instagrampixel.gif) `:instagrampixelicon:`
-![🖼](https://a.furaffinity.net/20220401/discordpixel.gif) `:discordpixelicon:`
-
-![🖼](https://a.furaffinity.net/20220401/pinktwitter.gif) `:pinktwittericon:
-
-![🖼](https://a.furaffinity.net/20220401/pinkdiscord.gif) `:pinkdiscordicon:
-
+### Pixel icons
+![🖼|50](https://a.furaffinity.net/20220401/twitterpixel.gif) `:twitterpixelicon:`
+![🖼|50](https://a.furaffinity.net/20220401/patreonpixel.gif) `:patreonpixelicon:`
+![🖼|50](https://a.furaffinity.net/20220401/paypalpixel.gif) `:paypalpixelicon:`
+![🖼|50](https://a.furaffinity.net/20220401/instagrampixel.gif) `:instagrampixelicon:`
+![🖼|50](https://a.furaffinity.net/20220401/discordpixel.gif) `:discordpixelicon:`
+### Pink icons
+![🖼|50](https://a.furaffinity.net/20220401/pinktwitter.gif) `:pinktwittericon:`
+![🖼|50](https://a.furaffinity.net/20220401/pinkinstagram.gif) `:pinkinstagramicon:`
+![🖼|50](https://a.furaffinity.net/20220401/pinkfacebook.gif) `:pinkfacebookicon:`
+![🖼|50](https://a.furaffinity.net/20220401/pinkpatreon.gif) `:pinkpatreonicon:`
+![🖼|50](https://a.furaffinity.net/20220401/pinktelegram.gif) `:pinktelegramicon:`
+![🖼|50](https://a.furaffinity.net/20220401/pinkdiscord.gif) `:pinkdiscordicon:`
 ## Warnings
 ![🖼](https://a.furaffinity.net/20220401/noroleplay.gif) `:noroleplayicon:`
 ![🖼](https://a.furaffinity.net/20220401/yesyiffy.gif) `:yesyiffyicon:`
@@ -153,18 +146,19 @@ More than **100** icons indexed. Help me increasing this library [sending me sug
 ![🖼](https://a.furaffinity.net/20220401/rafixed.gif) ![🖼](https://a.furaffinity.net/20220401/leftarrowicon.gif) `:rafixedicon:` `:leftarrowiconicon:`
 ![🖼](https://a.furaffinity.net/20220401/nosignicon.gif) `:nosigniconicon:`
 
-## Expressions by replic-tuanione
-![🖼](https://a.furaffinity.net/20220401/repsmile.gif) `:repsmileicon:`
-![🖼](https://a.furaffinity.net/20220401/repderp.gif) `:repderpicon:`
-![🖼](https://a.furaffinity.net/20220401/repblush.gif) `:repblushicon:`
-![🖼](https://a.furaffinity.net/20220401/replove.gif) `:reploveicon:`
-![🖼](https://a.furaffinity.net/20220401/repsip.gif) `:repsipicon:`
-![🖼](https://a.furaffinity.net/20220401/repgasm.gif) `:repgasmicon:`
+## Emotions
+### by [replic-tuanione](https://www.furaffinity.net/user/replic-tuanione)
+![🖼|50](https://a.furaffinity.net/20220401/repsmile.gif) `:repsmileicon:`
+![🖼|50](https://a.furaffinity.net/20220401/repderp.gif) `:repderpicon:`
+![🖼|50](https://a.furaffinity.net/20220401/repblush.gif) `:repblushicon:`
+![🖼|50](https://a.furaffinity.net/20220401/replove.gif) `:reploveicon:`
+![🖼|50](https://a.furaffinity.net/20220401/repsip.gif) `:repsipicon:`
+![🖼|50](https://a.furaffinity.net/20220401/repgasm.gif) `:repgasmicon:`
 
 
 # Authors
-[replic-tuanione](https://www.furaffinity.net/user/replic-tuanione)
 [Millkydad](https://www.furaffinity.net/user/millkydad)
+[ZoomkaWoker](https://www.furaffinity.net/user/zoomkawoker)
 
 ____
 <sub>
