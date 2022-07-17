@@ -6,11 +6,11 @@
 # 🌱 [Tei's digital garden](https://teijuan.netlify.app)
 A space for publishing some insights and useful notes. 🌿
 
-> [!INFO]- Also...
+> [!INFO] Also...
+
 > My commissions are **open**. 
 > I'd love to work with you on some brand new arts! (^ω^)ﾉ
 > [[DG/Commissions 2022|Check out my TOS for more info.]]
-
 
 - [[DG/Contact|Where to find me]] 
 - [[DG/Furaffinity Icons|Furaffinity icons]]
