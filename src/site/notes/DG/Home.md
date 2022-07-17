@@ -4,11 +4,16 @@
 
 
 # 🌱 [Tei's digital garden](https://teijuan.netlify.app)
-A static space for publishing some insights and useful notes. 🌿
+A space for publishing some insights and useful notes. 🌿
 
-\- [[DG/Furaffinity Icons|Furaffinity icons]]
-\- [[DG/Fanarts|Fanarts of my OCs]]
-\- [[DG/Contact|Contact me]]
+> [!INFO]- Also...
+> My commissions are **open**. 
+> I'd love to work with you on some brand new arts! (^ω^)ﾉ
+> [[DG/Commissions 2022|Check out my TOS for more info.]]
 
+
+- [[DG/Contact|Where to find me]] 
+- [[DG/Furaffinity Icons|Furaffinity icons]]
+- [[DG/Fanarts|Fanarts of my OCs]]
 ____
-Last modified: 2022-07-13 22:24
+	© Tei-Juan, 2022. All rights reserved.				
