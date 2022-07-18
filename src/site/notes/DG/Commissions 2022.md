@@ -21,7 +21,7 @@
 - Hardly I take low-res / unreadable material as reference, so please give clear instructions and / or pictures for your request.
 - Payments only can be fully refunded by artist's personal reasons (Setbacks, emergencies, etc.)
 - Withdrawn requests can be partially refunded depending on the work progress
-- Background costs may vary (\$5~\$10)
+- Background costs may vary (\$5 ~ \$10)
 
 ## What I do?
 - Anthros 🐺
@@ -34,7 +34,7 @@
 
 ## What I WON'T do?	
 - 🚫 Gore
-- 🚫 Vore
+- 🚫 Hard vore
 - 🚫 Paws / Feet
 
 ## Doubts?
