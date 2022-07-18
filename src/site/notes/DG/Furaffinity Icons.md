@@ -148,13 +148,13 @@ More than **100** icons indexed. Help me increasing this library [sending me sug
 
 ## Emotions
 ### by [replic-tuanione](https://www.furaffinity.net/user/replic-tuanione)
+
 ![🖼|50](https://a.furaffinity.net/20220401/repsmile.gif) `:repsmileicon:`
 ![🖼|50](https://a.furaffinity.net/20220401/repderp.gif) `:repderpicon:`
 ![🖼|50](https://a.furaffinity.net/20220401/repblush.gif) `:repblushicon:`
 ![🖼|50](https://a.furaffinity.net/20220401/replove.gif) `:reploveicon:`
 ![🖼|50](https://a.furaffinity.net/20220401/repsip.gif) `:repsipicon:`
 ![🖼|50](https://a.furaffinity.net/20220401/repgasm.gif) `:repgasmicon:`
-
 
 # Authors
 [Millkydad](https://www.furaffinity.net/user/millkydad)
