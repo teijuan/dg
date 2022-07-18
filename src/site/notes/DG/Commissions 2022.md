@@ -27,9 +27,10 @@
 - Anthros 🐺
 - Humans 👱‍♂️
 - Ferals 🐴
-- Pregnancy kink 🤰
+- Pregnancy 🤰<br><sub>Fpreg, mpreg, hyper at any size</sub>
 - Any gender 🏳‍🌈
 - Any species 🌎
+- Soft vore<br><sub>If the prey looks like was actually pregnant</sub>
 
 ## What I WON'T do?	
 - 🚫 Gore
@@ -38,3 +39,7 @@
 
 ## Doubts?
 [[DG/Contact|Ask me!]]
+____
+<sub>
+Last modificated: 18/07/2022 at 11:07
+</sub>
