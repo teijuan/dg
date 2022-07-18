@@ -5,9 +5,10 @@
 
 # 🌱 [Tei's digital garden](https://teijuan.netlify.app)
 A space for publishing some insights and useful notes. 🌿
+[Deviantart](https://www.deviantart.com/tei-juan) | [FurAffinity](https://www.furaffinity.net/user/teixeira-juan/) | [Twitter](https://twitter.com/teijuan_) | [Support ❤️](https://patreon.com/teijuan)
+____
 
 > [!INFO] Also...
-
 > My commissions are **open**. 
 > I'd love to work with you on some brand new arts! (^ω^)ﾉ
 > [[DG/Commissions 2022|Check out my TOS for more info.]]
