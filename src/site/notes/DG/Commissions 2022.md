@@ -3,7 +3,10 @@
 ---
 
 
-# 2022 Commissions 
+# 2022 Commissions
+
+> [!warning] Will be closed on Aug 2nd, 2022.
+
 ## Prices
 | Style | Head | Bust | Full |
 | ---: | --- | --- | --- |
@@ -14,32 +17,31 @@
 | Multiply | 1 | 1,7 | 2 |
 
 ## Terms of Service					
-- Payment in advance
+- Payment is done in advance
+- Discount of 30% for each extra character.
 - Increase of 50% for deadline requests.
 - Increase of 20% for each variant.
-- Discount of 30% for each extra character.
-- Hardly I take low-res / unreadable material as reference, so please give clear instructions and / or pictures for your request.
-- Payments only can be fully refunded by artist's personal reasons (Setbacks, emergencies, etc.)
-- Withdrawn requests can be partially refunded depending on the work progress
 - Background costs may vary (\$5 ~ \$10)
+- Please give clear instructions and / or send pictures with good quality (resolution and visibility) for your request.
+- Payments only can be fully refunded by artist's personal reasons
+- Withdrawn requests can be partially refunded depending on the work progress
 
 ## What I do?
-- Anthros 🐺
-- Humans 👱‍♂️
-- Ferals 🐴
-- Pregnancy 🤰<br><sub>Fpreg, mpreg, hyper at any size</sub>
-- Any gender 🏳‍🌈
-- Any species 🌎
-- Soft vore<br><sub>If the prey looks like was actually pregnant</sub>
+- 🐺 Anthros
+- 👨 Humans
+- 🐴 Ferals
+- 🤰 Preg kink<br><sub>Fpreg, mpreg, hyper at any size</sub>
+- 😋 Soft vore<br><sub>If the prey looks like was actually pregnant</sub>
+- 🏳‍🌈 Any gender
+- 🌎 Any species
 
-## What I WON'T do?	
-- 🚫 Gore
-- 🚫 Hard vore
-- 🚫 Paws / Feet
+## What I <span style='color:#ff3333;'>won't</span> do?	
+- 🍖 Gore
+- 👅 Hard vore
+- 🐾 Detailed paws / feet
 
-## Doubts?
-[[DG/Contact|Ask me!]]
+## Doubts? [[DG/Contact|Ask me!]]
 ____
 <sub>
-Last modificated: 18/07/2022 at 11:07
+Last modificated: 22/07/2022 at 14:07
 </sub>
