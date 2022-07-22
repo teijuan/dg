@@ -4,7 +4,7 @@
 
 
 # 🐾 FurAffinity Icons
-More than **100** icons indexed. Help me increasing this library [sending me suggestions](https://www.furaffinity.net/newpm/teixeira-juan).
+More than **110** icons indexed. Help me increasing this library [sending me suggestions](https://www.furaffinity.net/newpm/teixeira-juan).
 
 ![🖼|50](https://a.furaffinity.net/20220401/teixeira-juan.gif) `:teixeira-juanicon:`
 
@@ -161,8 +161,3 @@ More than **100** icons indexed. Help me increasing this library [sending me sug
 [ZoomkaWoker](https://www.furaffinity.net/user/zoomkawoker)
 
 ____
-<sub>
-Last modificated:
-jul 17, 2022 | 11:01
-</sub>
-<!-- End -->
