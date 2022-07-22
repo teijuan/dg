@@ -13,4 +13,5 @@
 
 ### [Twitter](https://twitter.com/teijuan_)
 
-### [Support ❤️](https://patreon.com/teijuan)
+### [Patreon](https://patreon.com/teijuan)
+### [Ko-Fi](https://ko-fi.com/teijuan)
