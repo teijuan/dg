@@ -7,7 +7,8 @@
 
 > [!warning] I'll be closed on Aug 2nd, 2022.
 > – Why?
-> I've quite a few projects that I'd like to get started or continue working on  some before this year ends and one 'till September, and because of the pending comms. I can't get enough focus and time for those projects.
+> I've quite a few projects that I'd like to get started or continue working on.
+> Some before this year ends and one 'till September, and because of the pending comms. I can't get enough focus and time for those projects.
 
 ## Prices
 | Style | Head | Bust | Full |
@@ -44,6 +45,4 @@
 
 ## Doubts? [[DG/Contact|Ask me!]]
 ____
-<sub>
-Last modificated: 24/07/2022 at 09:07
-</sub>
+<sub>Last modificated: 24/07/2022 at 09:20 (GMT -3)</sub>
