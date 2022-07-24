@@ -4,10 +4,11 @@
 
 
 # 2022 Commissions
-> [!warning] I'll be closed on Aug 2nd, 2022.
+> [!warning] Will be closed on Aug 2nd, 2022.
 > – Why?
 > I've quite a few projects that I'd like to get started or continue working on.
 > Some before this year ends and one 'till September, and because of the pending comms. I can't get enough focus and time for those projects.
+> <sub>~ Tei</sub>
 
 ## Prices
 | Style | Head | Bust | Full |
