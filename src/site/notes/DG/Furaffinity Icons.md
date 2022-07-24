@@ -115,16 +115,16 @@ More than **110** icons indexed. Help me increasing this library [sending me sug
 
 
 ## Social medias
-![🖼](https://a.furaffinity.net/20220401/deviant-art.gif) `:deviant-articon:`
-![🖼](https://a.furaffinity.net/20220401/discordfurs.gif) `:discordfursicon:`
-![🖼](https://a.furaffinity.net/20220401/facebook.gif) `:facebookicon:`
-![🖼](https://a.furaffinity.net/20220401/instagramicon.gif) `:instagramiconicon:`
-![🖼](https://a.furaffinity.net/20220401/ko-fi.gif) `:ko-fiicon:`
-![🖼](https://a.furaffinity.net/20220401/patreon.gif) `:patreonicon:`
-![🖼](https://a.furaffinity.net/20220401/paypal.gif) `:paypalicon:`
-![🖼](https://a.furaffinity.net/20220401/telegramfurs.gif) `:telegramfursicon:`
-![🖼](https://a.furaffinity.net/20220401/telegram.gif) `:telegramicon:`
-![🖼](https://a.furaffinity.net/20220401/twitter.gif) `:twittericon:`
+![🖼|50](https://a.furaffinity.net/20220401/deviant-art.gif) `:deviant-articon:`
+![🖼|50](https://a.furaffinity.net/20220401/discordfurs.gif) `:discordfursicon:`
+![🖼|50](https://a.furaffinity.net/20220401/facebook.gif) `:facebookicon:`
+![🖼|50](https://a.furaffinity.net/20220401/instagramicon.gif) `:instagramiconicon:`
+![🖼|50](https://a.furaffinity.net/20220401/ko-fi.gif) `:ko-fiicon:`
+![🖼|50](https://a.furaffinity.net/20220401/patreon.gif) `:patreonicon:`
+![🖼|50](https://a.furaffinity.net/20220401/paypal.gif) `:paypalicon:`
+![🖼|50](https://a.furaffinity.net/20220401/telegramfurs.gif) `:telegramfursicon:`
+![🖼|50](https://a.furaffinity.net/20220401/telegram.gif) `:telegramicon:`
+![🖼|50](https://a.furaffinity.net/20220401/twitter.gif) `:twittericon:`
 ### Pixel icons
 ![🖼|50](https://a.furaffinity.net/20220401/twitterpixel.gif) `:twitterpixelicon:`
 ![🖼|50](https://a.furaffinity.net/20220401/patreonpixel.gif) `:patreonpixelicon:`
@@ -138,9 +138,25 @@ More than **110** icons indexed. Help me increasing this library [sending me sug
 ![🖼|50](https://a.furaffinity.net/20220401/pinkpatreon.gif) `:pinkpatreonicon:`
 ![🖼|50](https://a.furaffinity.net/20220401/pinktelegram.gif) `:pinktelegramicon:`
 ![🖼|50](https://a.furaffinity.net/20220401/pinkdiscord.gif) `:pinkdiscordicon:`
+
+
+## Tools
+![🖼|50](https://a.furaffinity.net/20220401/firealpaca.gif) `:firealpacaicon:`
+![🖼|50](https://a.furaffinity.net/20220401/clipstudiopaint.gif) `:clipstudiopainticon:`
+![🖼|50](https://a.furaffinity.net/20220401/krita.gif) `:kritaicon:`
+![🖼|50](https://a.furaffinity.net/20220401/procreate.gif) `:procreateicon:`
+![🖼|50](https://a.furaffinity.net/20220401/ibispaint.gif) `:ibispainticon:`
+![🖼|50](https://a.furaffinity.net/20220401/ibispaintx.gif) `:ibispaintxicon:`
+![🖼|50](https://a.furaffinity.net/20220401/animate.gif) `:animateicon:`
+![🖼|50](https://a.furaffinity.net/20220401/photoshop.gif) `:photoshopicon:`
+
+## Oh wow I didn't even know that there was icons for these brands, but since they do exist, I'll sort them later
+![🖼|50](https://a.furaffinity.net/20220401/github.gif) `:githubicon:`
+![🖼|50](https://a.furaffinity.net/20220401/ebay.gif) `:ebayicon:`
+
 ## Warnings
-![🖼](https://a.furaffinity.net/20220401/noroleplay.gif) `:noroleplayicon:`
-![🖼](https://a.furaffinity.net/20220401/yesyiffy.gif) `:yesyiffyicon:`
+![🖼|50](https://a.furaffinity.net/20220401/noroleplay.gif) `:noroleplayicon:`
+![🖼|50](https://a.furaffinity.net/20220401/yesyiffy.gif) `:yesyiffyicon:`
 
 ##  Symbols
 ![🖼](https://a.furaffinity.net/20220401/rafixed.gif) ![🖼](https://a.furaffinity.net/20220401/leftarrowicon.gif) `:rafixedicon:` `:leftarrowiconicon:`
@@ -161,3 +177,6 @@ More than **110** icons indexed. Help me increasing this library [sending me sug
 [ZoomkaWoker](https://www.furaffinity.net/user/zoomkawoker)
 
 ____
+<sub>
+Last modificated: 23/07/2022 at 13:07
+</sub>
