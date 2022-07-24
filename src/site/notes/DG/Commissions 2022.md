@@ -4,7 +4,6 @@
 
 
 # 2022 Commissions
-
 > [!warning] I'll be closed on Aug 2nd, 2022.
 > – Why?
 > I've quite a few projects that I'd like to get started or continue working on.
