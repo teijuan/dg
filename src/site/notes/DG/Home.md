@@ -4,16 +4,21 @@
 
 
 # 🌱 Tei's digital garden
+____
 A space for publishing some insights and useful notes. 🌿
-____
 
-> [!INFO] Also...
-> My commissions are **open**. 
-> I'd love to work with you on some brand new arts! (^ω^)ﾉ
-> [[DG/Commissions 2022|Check out my TOS for more info.]]
+Here you will find:
+1. [[DG/Commissions 2022 closed|My price sheet]] for commissions.
 
-- [[DG/Contact|Where to find me]] 
-- [[DG/Furaffinity Icons|Furaffinity icons]]
-- [[DG/Fanarts|Fanarts of my OCs]]
+1. [[DG/Fanarts|Fanarts of my OCs]], but some images are broken and I can't figure out why. Will fix it soon.
+
+1. [[DG/Contact|Where to find me]], and ways for contacting me.
+
+1. [[DG/Furaffinity Icons|Some nice icons]] you can use on Furaffinity.
+
+Also...
+
+– Are you watching me on FA or DA?
+Please, let me know if you've visited my garden. I appreciate any feedbacks about how's it looking.
 ____
-	© Tei-Juan, 2022. All rights reserved.				
+<sub>© Tei-Juan, 2022.</sub>
