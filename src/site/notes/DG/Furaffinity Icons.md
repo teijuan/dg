@@ -66,7 +66,15 @@ More than **110** icons indexed. Help me increasing this library [sending me sug
 
 ## Hearts
 ![🖼](https://a.furaffinity.net/20220401/heartpixel.gif) `:heartpixelicon:`
+### Luvluvz
+![🖼](https://a.furaffinity.net/20220401/luvluvzred.gif) `:luvluvzredicon:`
+![🖼](https://a.furaffinity.net/20220401/luvluvzgreen.gif) `:luvluvzgreenicon:`
+![🖼](https://a.furaffinity.net/20220401/luvluvzyellow.gif) `:luvluvzyellowicon:`
+![🖼](https://a.furaffinity.net/20220401/luvluvzblue.gif) `:luvluvzblueicon:`
+![🖼](https://a.furaffinity.net/20220401/luvluvz.gif) `:luvluvzicon:`
+![🖼](https://a.furaffinity.net/20220401/luvluvzwhite.gif) `:luvluvzwhiteicon:`
 ![🖼](https://a.furaffinity.net/20220401/luvluvzblack.gif) `:luvluvzblackicon:`
+### 8 bit Heart
 ![🖼](https://a.furaffinity.net/20220401/8bitheartred.gif) `:8bitheartredicon:`
 ![🖼](https://a.furaffinity.net/20220401/8bitheartpink.gif) `:8bitheartpinkicon:`
 ![🖼](https://a.furaffinity.net/20220401/8bitheartblack.gif) `:8bitheartblackicon:`
@@ -150,9 +158,16 @@ More than **110** icons indexed. Help me increasing this library [sending me sug
 ![🖼|50](https://a.furaffinity.net/20220401/animate.gif) `:animateicon:`
 ![🖼|50](https://a.furaffinity.net/20220401/photoshop.gif) `:photoshopicon:`
 
-## Oh wow I didn't even know that there was icons for these brands, but since they do exist, I'll sort them later
+## Unsorted
 ![🖼|50](https://a.furaffinity.net/20220401/github.gif) `:githubicon:`
 ![🖼|50](https://a.furaffinity.net/20220401/ebay.gif) `:ebayicon:`
+![🖼|50](https://a.furaffinity.net/20220401/nocreepycomments.gif) `:nocreepycommentsicon:`
+![🖼|50](https://a.furaffinity.net/20220401/bdsmfurs.gif) `:bdsmfursicon:`
+![🖼|50](https://a.furaffinity.net/20220401/pokemonfurries.gif) `:pokemonfurriesicon:`
+![🖼|50](https://a.furaffinity.net/20220401/disneyfurries.gif) `:disneyfurriesicon:`
+![🖼|50](https://a.furaffinity.net/20220401/otakufurs.gif) `:otakufursicon:`
+![🖼|50](https://a.furaffinity.net/20220401/russfurs.gif) `:russfursicon:`
+
 
 ## Warnings
 ![🖼|50](https://a.furaffinity.net/20220401/noroleplay.gif) `:noroleplayicon:`
