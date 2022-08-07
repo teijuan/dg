@@ -7,11 +7,20 @@
 [![](https://tei-juan.carrd.co/assets/images/image01.jpg?v=f588c7fa)](https://tei-juan.carrd.co/)
 =
 
-### [FurAffinity](https://www.furaffinity.net/user/teixeira-juan/)
+[![🖼|40](https://a.furaffinity.net/20220401/furaffinity.gif) ~teixeira-juan](https://www.furaffinity.net/user/teixeira-juan/)
+---
 
-### [Deviantart](https://www.deviantart.com/tei-juan)
+[![🖼|40](https://a.furaffinity.net/20220401/deviant-art.gif) @tei-juan](https://www.deviantart.com/tei-juan)
+---
 
-### [Twitter](https://twitter.com/teijuan_)
+[![🖼|40](https://a.furaffinity.net/20220401/twitter.gif) @teijuan\_](https://twitter.com/teijuan_)
+---
 
-### [Patreon](https://patreon.com/teijuan)
-### [Ko-Fi](https://ko-fi.com/teijuan)
+[![🖼|40](https://a.furaffinity.net/20220401/instagramicon.gif) @tefra.studios](https://instagram.com/tefra.studios)
+---
+
+[![🖼|40](https://a.furaffinity.net/20220401/patreon.gif) Support me](https://patreon.com/teijuan)
+---
+
+[![🖼|40](https://a.furaffinity.net/20220401/ko-fi.gif) Caffeine me](https://ko-fi.com/teijuan)
+---
