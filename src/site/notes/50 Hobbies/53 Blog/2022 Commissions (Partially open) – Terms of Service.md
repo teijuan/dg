@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"tos, commissions","permalink":"/tos, commissions/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"tos","permalink":"/tos/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
