@@ -7,7 +7,7 @@
 ____
 A space for publishing some insights and useful notes. 🌿
 
-1. [My price sheet](https://teijuan.netlify.app/commissions) for commissioning.
+1. [My ToS](https://teijuan.netlify.app/tos) for commissions, trades or raffles.
 
 1. [[50 Hobbies/53 Blog/Fanarts|Fanarts of my OCs]], but some images are broken and I can't figure out why. Will fix it soon.
 
