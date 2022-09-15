@@ -6,7 +6,9 @@
 # 2022 Commissions
 
 > [!INFO] Partially open
-> My harder pendencies are almost in the end, so I'm still able to grab some few requests.
+> My harder pendencies are almost in the end, so I'm still able to grab some few requests. But take note that the deliver might delay a bit more.
+> 
+> Thanks for the attention.
 > <sub>~ Tei</sub>
 
 
@@ -36,12 +38,10 @@
 - 🤰 Preg kink<br><sub>Fpreg, mpreg, hyper at any size</sub>
 - 🏳‍🌈 Any gender
 - 🌎 Any species
-
-## Things that I'm still training but also would do:
-- 🔞 **NSFW**
 - 😋 Soft vore<br><sub>If the prey looks like was actually pregnant</sub>
 
 ## What I <span style='color:#ff3333;'>won't</span> do?	
+- 🔞 NSFW
 - 🍖 Gore
 - 🔄 Futa
 - 👅 Hard vore
@@ -49,4 +49,4 @@
 
 ## Doubts? [[50 Hobbies/53 Blog/Contact|Ask me!]]
 ____
-<sub>Last modificated: 22/08/2022 at 08:22 (GMT -3)</sub>
+<sub>Last modificated: 15/09/2022 at 07:09 (GMT -3)</sub>
