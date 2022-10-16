@@ -28,7 +28,7 @@
 - 👨 Humans
 - 🐴 Ferals
 - 🤰 Preg kink<br><sub>Fpreg, mpreg, hyper at any size</sub>
-- 😋 Soft vore<br><sub>If the prey looks like was actually pregnant</sub>
+- 😋 Soft vore<br><sub>If the predator looks pregnant instead.</sub>
 - 🏳‍🌈 Any gender
 - 🌎 Any species
 
@@ -39,4 +39,4 @@
 
 ## Doubts? [[50 Hobbies/53 Blog/Contact|Ask me!]]
 ____
-<sub>Last modificated: 2022/09/16 at 21:09 (GMT -3)</sub>
+<sub>Last modificated: 2022/10/16 at 19:10 (GMT -3)</sub>
