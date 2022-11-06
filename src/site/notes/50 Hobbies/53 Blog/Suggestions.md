@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-permalink":"suggest","permalink":"/suggest/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"suggest","permalink":"/suggest/"}
 ---
 
 
 # Suggestions
 
 <form name="sugestao-de-desenho" netlify>
-	<label>Send your suggestion!<textarea name="email"></textarea></label>
+	<label>Send your suggestion!<br><textarea name="suggestion"></textarea></label>
   </p>
   <p>
     <button type="submit">Send</button>
@@ -14,6 +14,6 @@
 </form>
 
 ## Rules:
-- Don't identify yourself;
+- Requests are anonymous.
 - No OCs;
-- Simple ideas, with no much details.
+- Simple ideas
