@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"commissions","permalink":"/commissions/"}
+{"dg-publish":true,"dg-permalink":"tos","permalink":"/tos/"}
 ---
 
 
