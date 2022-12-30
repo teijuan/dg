@@ -10,11 +10,9 @@ I'll take the rest of December for enjoying the holidays. On first half January,
 
 Thanks for the attention and happy holidays for everyone!  
 
-<img src="https://d.furaffinity.net/art/teixeira-juan/1671984773/1671984773.teixeira-juan_2022-12-22_art-mgm-mrsbrisby-littles-en.jpg" alt="2022-12-22_art-mgm-mrsbrisby-littles-en"
-/>
+![1671984773.teixeira-juan_2022-12-22_art-mgm-mrsbrisby-littles-en.jpg](https://d.furaffinity.net/art/teixeira-juan/1671984773/1671984773.teixeira-juan_2022-12-22_art-mgm-mrsbrisby-littles-en.jpg)
 
 <sub>~ Tei.</sub>
 
 ## Doubts? [[2_Areas/Blog/Contact|Ask me!]]
 ____
-
