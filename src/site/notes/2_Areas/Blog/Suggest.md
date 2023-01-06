@@ -23,5 +23,3 @@ You must not suggest:
 – OCs of any type  
 
 If you want something specific, you should [ask for a commission.](https://teijuan.netlify.app/tos/)
-
-- - - - -
