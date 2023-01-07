@@ -2,19 +2,20 @@
 {"dg-publish":true,"dg-permalink":"tos","permalink":"/tos/"}
 ---
 
+<!-- NÃO ESQUEÇA DE TROCAR A DATA DE MODIFICAÇÃO! -->
 
 # 2023 Commissions Open!
 
 Table of Contents
 
-- [[2_Areas/Blog/2023 Commissions Open!#Prices|Prices]]
+- [[2_Areas/Blog/2023 Commissions Open!#Prices and styles|#Prices and styles]]
 - [[2_Areas/Blog/2023 Commissions Open!#Terms of Service|Terms of Service]]
 	- [[2_Areas/Blog/2023 Commissions Open!#Terms of Service|'Do's and 'Dont's]]
 	- [[2_Areas/Blog/2023 Commissions Open!#My specialities|#My specialities]]
-- [[2_Areas/Blog/2023 Commissions Open!#Accepted payment methods|#Accepted payment methods]]
+- [[2_Areas/Blog/2023 Commissions Open!#Ways of payment|#Ways of payment]]
 
 
-## Prices
+## Prices and styles
 
 | Style          | Full | Bust | Head |
 | :--------------| ---- | ---- | ---- |
@@ -25,31 +26,36 @@ Table of Contents
 | FLAT SHADED    | $34  | $26  | $14 |
 | FULL SHADED    | $45  | $35  | $20 |
 
+\- Extra characters costs half.  
+
+Values may vary for:  
+- Deadline comms.
+- Alt. versions'
+- Background
+
 ## Terms of Service					
-- Deadline comms. have an extra fee, its value depends on due date.
 - Payment is done in advance
-- Background price depends on work
-- Image refs must have a good resolution and visibility.
-- Pending works can be partially refunded, depending on its progress.
-- Extra characters costs half.
-- Alt. versions' price depends on the size of the edition made.
+- Image refs must be clear, regardless the style
+- Pending works can be partially refunded according to its progress
 
 ### What I do?
 - Humans
-- Anthros<br>
+- Anthros
 <small>Many fluffy or scaly species</small>
+- Pregnancy
+- Soft vore <small>(that looks like a pregnancy)</small>
+- (Experimental) NSFW nudity
+
+### What I don't do?  
+- Gore
+- Detailed paws / feet
+- Minors involved in kink themes
 
 ### My specialities
 - Small rodents<br><small>Rabbits, mice, etc.</small>
 - Pregnancy<br><small>Any gender or belly size.</small>
 
-### What I don't do?  
-- NSFW
-- Gore
-- Detailed paws / feet
-- Minors involved in kink themes
-
-## Accepted payment methods
+## Ways of payment
 - Paypal
 - Ko-Fi
 - Patreon
@@ -57,5 +63,4 @@ Table of Contents
 
 ▍ Doubts? [[2_Areas/Blog/Contact me|Contact me!]]
 
-<!-- NÃO ESQUEÇA DE TROCAR A DATA DE MODIFICAÇÃO! -->
-<sub>Last modificated: 2023/01/07 at 19:01 (GMT -3)</sub>
+<sub>Last modificated: 2023/01/07 at 20:01 (GMT -3)</sub>
