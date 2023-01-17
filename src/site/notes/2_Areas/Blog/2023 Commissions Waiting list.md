@@ -11,10 +11,9 @@
 - z3lda123 
 
 ## Working
-- 
+- Wildegems
 
 ## Awaiting approval
-- Wildegems
 
 ## Done
 
