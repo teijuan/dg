@@ -7,9 +7,9 @@
 
 My cozy space for sharing insights and useful notes.  
 <sub>You might be looking for...</sub>
-1. My [[2_Areas/Blog/2023 Commissions Open!|comissions' ToS]] and [[2_Areas/Blog/2023 Commissions Waiting list|waiting list]]
+1. My [[2_Areas/Blog/2023 Commissions Open!|comissions' ToS]] and [waiting list](https://app.simplenote.com/p/23qbfM)
 2. Ways of [[2_Areas/Blog/Contact me|contacting me]] and where to watch my works  
-3. Sending a [[2_Areas/Blog/Suggest|suggestion]] of what you'd like me to draw
+3. Send a [[2_Areas/Blog/Suggest|suggestion]] of characters or themes you'd like me to draw
 
 ### 🌻🌷🌿🌺🍀🌸🌾
 
