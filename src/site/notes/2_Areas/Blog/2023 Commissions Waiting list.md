@@ -5,15 +5,17 @@
 
 <!-- NÃO ESQUEÇA DE TROCAR A DATA DE MODIFICAÇÃO! -->
 
-# 2023 Commissions Waiting list
 
-## To Begin
-- z3lda123 
+ # 2023 Commissions Waiting list
 
-## Working
-- Wildegems
+**To Begin**  
+\- □□□□□ z3lda123   
 
-## Awaiting approval
+**Working**  
+\- ■■■■□  Wildegems  
+
+**Awaiting approval**  
+\-
 
 ## Done
 
@@ -22,6 +24,6 @@
 | Vazco_DS | 2023-01-15 |  [CM: Kandi and Baker](https://www.furaffinity.net/view/50628977) |
 | PacificSide | 2023-01-09 | |
 
-▍ Doubts? [[2_Areas/Blog/Contact me|Contact me!]]
+▍ Doubts? [Contact me!](https://teijuan.netlify.app/contact)
 
 <sub>Last modificated: 2023/01/17 at 10:01 (GMT -3)</sub>
