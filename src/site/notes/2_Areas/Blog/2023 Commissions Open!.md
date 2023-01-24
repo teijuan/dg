@@ -10,9 +10,9 @@ Table of Contents
 
 - [[2_Areas/Blog/2023 Commissions Open!#Prices and styles|#Prices and styles]]
 - [[2_Areas/Blog/2023 Commissions Open!#Terms of Service|Terms of Service]]
-	- [[2_Areas/Blog/2023 Commissions Open!#Terms of Service|'Do's and 'Dont's]]
-	- [[2_Areas/Blog/2023 Commissions Open!#My specialities|#My specialities]]
-- [[2_Areas/Blog/2023 Commissions Open!#Ways of payment|#Ways of payment]]
+	- [[2_Areas/Blog/2023 Commissions Open!#What I do?|'Do's and 'Dont's]]
+	- [[2_Areas/Blog/2023 Commissions Open!#My specialities|My specialities]]
+- [[2_Areas/Blog/2023 Commissions Open!#Ways of payment|Payment]]
 
 
 ## Prices and styles
