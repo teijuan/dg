@@ -11,9 +11,4 @@ My cozy space for sharing insights and useful notes.
 2. Ways of [[2_Areas/Blog/Contact me|contacting me]] and where to watch my works  
 3. Send a [[2_Areas/Blog/Suggest|suggestion]] of characters or themes you'd like me to draw
 
-### 🌻🌷🌿🌺🍀🌸🌾
-
 <sub>© Tei-Juan, 2023.</sub>
-<!--
-[[2_Areas/Blog/Tei's DG#|About]] | [[2_Areas/Blog/Privacy policy|Privacy policy]]
--->
