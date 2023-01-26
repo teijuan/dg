@@ -8,7 +8,7 @@
 
 Table of Contents
 
-- [[2_Areas/Blog/2023 Commissions Open!#Prices and styles|#Prices and styles]]
+- [[2_Areas/Blog/2023 Commissions Open!#Prices and styles|Price table]]
 - [[2_Areas/Blog/2023 Commissions Open!#Terms of Service|Terms of Service]]
 	- [[2_Areas/Blog/2023 Commissions Open!#What I do?|'Do's and 'Dont's]]
 	- [[2_Areas/Blog/2023 Commissions Open!#My specialities|My specialities]]
@@ -56,11 +56,12 @@ Values may vary for:
 - Pregnancy<br><small>Any gender or belly size.</small>
 
 ## Ways of payment
+- Transferwise <sup><span style="text-shadow: 0px 0px 2px #ffaa00">**NEW!**</span><sup>
+- Bank deposit <sup><span style="text-shadow: 0px 0px 2px #ffaa00">**NEW!**</span><sup>
 - Paypal
 - Ko-Fi
 - Patreon
-- AirTM
 
 ▍ Doubts? [[2_Areas/Blog/Contact me|Contact me!]]
 
-<sub>Last modificated: 2023/01/07 at 20:01 (GMT -3)</sub>
+<sub>Last modificated: 2023/01/26 at 07:01 (GMT -3)</sub>
