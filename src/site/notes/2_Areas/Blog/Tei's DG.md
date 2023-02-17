@@ -5,7 +5,13 @@
 
 ## 🌱 Tei's digital garden
 
+
+> [!warning] Warning
+> Within a few days, most informations in this website (Comissions prices, queue, contact links) will be moved to this new address:
+> ## https://teijuan.github.io/
+
 My cozy space for sharing insights and useful notes.  
+
 <sub>You might be looking for...</sub>
 1. My [[2_Areas/Blog/2023 Commissions Open!|comissions' ToS]] and [waiting list](https://app.simplenote.com/p/3xQHzl)
 2. Ways of [[2_Areas/Blog/Contact me|contacting me]] and where to watch my works  
