@@ -6,6 +6,12 @@
 
 # 2023 Commissions Open!
 
+> [!warning] Warning
+> Within a few days, most of informations in this website (Comissions prices, queue, contact links) will be moved to this new address:
+> ## [https://teijuan.github.io](https://teijuan.github.io/)
+
+
+
 Table of Contents
 
 - [[2_Areas/Blog/2023 Commissions Open!#Prices and styles|Price table]]
