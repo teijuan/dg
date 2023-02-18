@@ -6,7 +6,7 @@
 # Contact Me
 
 > [!warning] Warning
-> Within a few days, most of informations in this website (Comissions prices, queue, contact links) will be moved to this new address:
+> This website's moving to a new address:
 > ## [https://teijuan.github.io](https://teijuan.github.io/)
 
 [![](https://tei-juan.carrd.co/assets/images/image01.jpg?v=f588c7fa)](https://tei-juan.carrd.co/)
