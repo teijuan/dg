@@ -5,9 +5,8 @@
 
 ## 🌱 Tei's digital garden
 
-
 > [!warning] Warning
-> Within a few days, most of informations in this website (Comissions prices, queue, contact links) will be moved to this new address:
+> This website's moving to a new address:
 > ## [https://teijuan.github.io](https://teijuan.github.io/)
 
 My cozy space for sharing insights and useful notes.  
