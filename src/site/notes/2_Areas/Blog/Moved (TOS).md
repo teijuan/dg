@@ -4,5 +4,5 @@
 
 
 > [!INFO] Note
-> This website were moved to a new address:
-> ## [https://teijuan.github.io/](https://teijuan.github.io/comms-tos)
+> This website moved to a new address:
+> ## [https://teijuan.github.io](https://teijuan.github.io/tos)
