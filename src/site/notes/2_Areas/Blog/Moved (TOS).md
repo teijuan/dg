@@ -5,5 +5,6 @@
 <meta http-equiv="refresh" content="0; url=https://teijuan.github.io/tos" />
 
 > [!INFO] Info
-> This website moved to a new address:
-> ## [https://teijuan.github.io](https://teijuan.github.io/tos)
+> Redirecting you to the new address...
+> If nothing happens, click here:
+> ## [https://teijuan.github.io/tos](https://teijuan.github.io/tos)
